@@ -1,0 +1,15 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+}
+.nav-links, .nav-links2{
+    display: flex;
+    align-items: center;
+    column-gap: 1em;
+
+}
